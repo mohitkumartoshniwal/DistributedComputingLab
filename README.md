@@ -12,3 +12,5 @@ $ ./a.out
 $ mpicc <file>.c
 $ mpirun -np 4 ./a.out
 ```
+
+Kindly star the repo if you found it helpful.
